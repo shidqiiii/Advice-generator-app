@@ -4,7 +4,7 @@ var btn = document.getElementById("btn");
 
 const url = "https://api.adviceslip.com/advice";
 
-let getAdvice = function() {
+let getAdvice = function () {
     fetch(url)
         .then((response) => response.json())
         .then((data) => {
