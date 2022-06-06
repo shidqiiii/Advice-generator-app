@@ -24,9 +24,8 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
-
-![Website](./screenshot_web.png)
-![Mobile](./screenshoot_mobile.png)
+![Website](./images/screenshoot_web.png) 
+![Mobile](./images/screenshoot_mobile.png)
 
 ### Links
 
